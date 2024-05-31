@@ -1,4 +1,5 @@
 // File: Register.jsx located in root-directory/src/component/
+
 import React from "react";
 import { useState } from "react";
 
